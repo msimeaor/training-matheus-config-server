@@ -5,5 +5,5 @@ spring:
     name: greeting-service
 
 greeting-service:
-  greeting: Salve
+  greeting: Coé
   default-value: Mundo
